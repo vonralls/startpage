@@ -30,7 +30,9 @@ var queries = {
     "!y": "https://www.youtube.com/results?search_query=",
     "!e": "https://www.ebay.com/",
     "!wa": "https://www.wolframalpha.com/",
-    "!books": "http://bookzz.org/s/?q=",
+    "!az": "https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=",
+    "!lhrl": "https://www.liftheavyrunlong.com/?s=",
+    "!obcf": "http://www.olivebranchcrossfit.com/?s=",
 };
 
 
